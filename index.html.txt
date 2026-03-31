@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="es"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Estética Colombia Tours | Su Transformación de Lujo</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&amp;family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "on-primary": "#003738",
+              "surface-tint": "#2ddbde",
+              "surface-container": "#201f1f",
+              "background": "#131313",
+              "tertiary-fixed": "#ffdcc0",
+              "primary-container": "#00ced1",
+              "surface-container-high": "#2a2a2a",
+              "on-primary-fixed-variant": "#004f51",
+              "inverse-on-surface": "#313030",
+              "on-secondary": "#3c2f00",
+              "primary": "#47eaed",
+              "outline-variant": "#3b4949",
+              "on-secondary-container": "#342800",
+              "surface-dim": "#131313",
+              "on-surface-variant": "#bac9c9",
+              "inverse-primary": "#00696b",
+              "on-primary-fixed": "#002020",
+              "surface-variant": "#353534",
+              "tertiary": "#ffcb9e",
+              "on-background": "#e5e2e1",
+              "on-tertiary-fixed": "#2d1600",
+              "on-secondary-fixed": "#241a00",
+              "secondary-container": "#af8d11",
+              "on-error-container": "#ffdad6",
+              "on-tertiary": "#4b2800",
+              "error": "#ffb4ab",
+              "surface-container-highest": "#353534",
+              "secondary-fixed": "#ffe088",
+              "secondary-fixed-dim": "#e9c349",
+              "on-error": "#690005",
+              "primary-fixed": "#5af8fb",
+              "surface-container-lowest": "#0e0e0e",
+              "surface-container-low": "#1c1b1b",
+              "on-tertiary-fixed-variant": "#6b3b00",
+              "secondary": "#e9c349",
+              "surface-bright": "#393939",
+              "on-secondary-fixed-variant": "#574500",
+              "tertiary-fixed-dim": "#ffb876",
+              "on-primary-container": "#005354",
+              "surface": "#131313",
+              "tertiary-container": "#ffa54a",
+              "primary-fixed-dim": "#2ddbde",
+              "inverse-surface": "#e5e2e1",
+              "on-tertiary-container": "#6f3d00",
+              "on-surface": "#e5e2e1",
+              "outline": "#859493",
+              "error-container": "#93000a"
+            },
+            fontFamily: {
+              "headline": ["Noto Serif"],
+              "body": ["Inter"],
+              "label": ["Inter"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+        .luxury-text-gradient {
+            background: linear-gradient(135deg, #e9c349 0%, #af8d11 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .obsidian-glass {
+            background: rgba(19, 19, 19, 0.85);
+            backdrop-filter: blur(20px);
+        }
+    </style>
+</head>
+<body class="bg-background text-on-surface font-body selection:bg-primary/30" data-mode="connect">
+<!-- TopNavBar -->
+<nav class="fixed top-0 w-full z-50 obsidian-glass border-b border-white/5">
+<div class="flex justify-between items-center px-4 md:px-8 py-3 max-w-full">
+<div class="flex items-center">
+<img alt="Estética Colombia Tours Logo" class="h-10 md:h-14 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/ADBb0uggsHYFBVFFPyMQ3wO8n-TsIC6L_rcFbQm9jHmkX4pROeaH0-gcdXXGxXx9IfaRxHyhNkiOyKv7YjaBPG__fm1B1xcSpwbBvdAU_QVZtF2NuS6ODPH-0u8c1ZI-eUI8m1fK09FpzUGV8-XdA6NnEp0Q9WVw8zUbV6Buj0Wi_Buw6m8nD4N6Zy9sl4nuXoVZFkKwkbJftQqWbmb03i_nwa20_4V4dl9MNrqVW9ltOFHC_OA-pTwPOwjgYhBcQ0baf4KQnsUUaaglPw"/>
+</div>
+<a class="bg-primary hover:scale-105 active:scale-95 transition-all px-4 md:px-6 py-2 rounded-full text-on-primary font-bold text-[10px] sm:text-xs md:text-sm tracking-tight shadow-lg shadow-primary/20 whitespace-nowrap" href="https://wa.me/573217458686" rel="noopener noreferrer" target="_blank">
+            Get Free Consultation
+        </a>
+</div>
+</nav>
+<main>
+<!-- Section 1: Hero Banner -->
+<section class="relative min-h-[100dvh] flex items-center justify-center px-6 overflow-hidden">
+<div class="absolute inset-0 z-0">
+<div class="absolute inset-0 bg-gradient-to-b from-black/80 via-black/40 to-black/80 md:bg-gradient-to-r md:from-black md:via-black/60 md:to-transparent z-10"></div>
+<img class="w-full h-full object-cover" data-alt="Luxurious modern surgical suite with deep ambient lighting, metallic accents, and high-end medical equipment in a dark editorial style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBEFy-YarkwxnahIqgEA_ywrYhcVyRwbTFyGL1pp2x3dEfoJAwnxLXks09xk7l4xehIVoQbNLxmwzae9_89kfo3ArYVbsgwr3abf3T9R2xhc8JJZvbSys2i-r2Py_aL_lremIMXyaeKFKsSVHFoXAohxEwY-dP0dpkcKz2j1pzoC4zi03EkM2bJcOGzdxom3PZ9-Fpyks5mxLmRz3DFN7vhdqzTvVw6ysP04g5ZsB_X7rzZ72YyHbbcqWGJ_SqC5V63rWMQu0zd0Y4"/>
+</div>
+<div class="relative z-20 max-w-4xl pt-24 text-center md:text-left">
+<h1 class="text-4xl sm:text-5xl md:text-7xl font-headline font-bold leading-tight mb-6">
+                Su Transformación de Lujo en <span class="luxury-text-gradient italic">Colombia</span> Comienza Aquí.
+            </h1>
+<p class="text-lg md:text-2xl text-on-surface-variant font-light leading-relaxed mb-10 max-w-2xl mx-auto md:ml-0">
+                Cirugía plástica de élite y odontología estética avanzada en Cali. Disfrute de resultados de clase mundial envueltos en una experiencia Concierge VIP.
+            </p>
+<div class="flex flex-col sm:flex-row gap-4 items-center md:items-start">
+<a class="w-full sm:w-auto bg-primary text-on-primary px-8 py-5 rounded-full font-bold text-lg flex items-center justify-center gap-3 hover:shadow-[0_0_30px_rgba(71,234,237,0.4)] transition-all" href="https://wa.me/573217458686?text=Hola,%20vengo%20de%20la%20web%20y%20me%20gustar%C3%ADa%20agendar%20una%20valoraci%C3%B3n%20privada.">
+<span class="material-symbols-outlined" data-weight="fill">chat</span>
+                    Agendar Mi Valoración Privada
+                </a>
+</div>
+</div>
+</section>
+<!-- Section 2: Nuestra Promesa ('Burbuja VIP') -->
+<section class="py-16 md:py-24 bg-surface-container-low px-6">
+<div class="max-w-7xl mx-auto">
+<div class="mb-12 md:mb-16 text-center">
+<h2 class="text-3xl md:text-5xl font-headline mb-4">No es solo un procedimiento, <span class="text-secondary italic">es un retiro de sanación.</span></h2>
+<p class="text-on-surface-variant max-w-2xl mx-auto">Diseñamos una burbuja de seguridad y confort total para nuestros pacientes internacionales.</p>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
+<div class="p-6 md:p-8 rounded-xl bg-surface-container-high border-t border-white/5 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary mb-4" data-icon="security">security</span>
+<h3 class="text-lg font-bold mb-2">Transporte Blindado VIP</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed">Seguridad absoluta desde su llegada al aeropuerto hasta cada cita médica.</p>
+</div>
+<div class="p-6 md:p-8 rounded-xl bg-surface-container-high border-t border-white/5 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary mb-4" data-icon="concierge">concierge</span>
+<h3 class="text-lg font-bold mb-2">Concierge Personal</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed">Asistencia 24/7 en su idioma para cualquier necesidad logística o personal.</p>
+</div>
+<div class="p-6 md:p-8 rounded-xl bg-surface-container-high border-t border-white/5 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary mb-4" data-icon="medical_services">medical_services</span>
+<h3 class="text-lg font-bold mb-2">Recuperación Asistida</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed">Enfermería especializada y cuidados post-operatorios de primer nivel.</p>
+</div>
+<div class="p-6 md:p-8 rounded-xl bg-surface-container-high border-t border-white/5 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-4xl text-secondary mb-4" data-icon="privacy_tip">privacy_tip</span>
+<h3 class="text-lg font-bold mb-2">Privacidad Absoluta</h3>
+<p class="text-sm text-on-surface-variant leading-relaxed">Entornos discretos y exclusivos diseñados para la confidencialidad total.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Section 3: Excelencia en Contorno Corporal -->
+<section class="py-16 md:py-24 px-6 overflow-hidden">
+<div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-16 items-center">
+<div class="order-2 lg:order-1">
+<h2 class="text-3xl md:text-5xl font-headline font-bold mb-6">Esculpiendo su Mejor Versión con <span class="text-primary italic">Precisión Quirúrgica.</span></h2>
+<p class="text-on-surface-variant mb-10 text-lg leading-relaxed">
+                    Liderado por el <strong class="text-on-surface">Dr. Cristian Echeverry</strong>, nuestro equipo utiliza tecnología de vanguardia en quirófanos Nivel III para garantizar resultados excepcionales y seguridad clínica.
+                </p>
+<div class="space-y-3 md:space-y-4 mb-10">
+<details class="group bg-surface-container-low rounded-xl overflow-hidden transition-all duration-300">
+<summary class="list-none p-5 md:p-6 flex justify-between items-center cursor-pointer hover:bg-surface-container-high transition-colors">
+<span class="font-bold">Lipoescultura HD</span>
+<span class="material-symbols-outlined text-primary group-open:rotate-180 transition-transform duration-300">expand_more</span>
+</summary>
+<div class="px-5 md:px-6 pb-6 text-on-surface-variant text-sm leading-relaxed border-t border-white/5 pt-4">
+                            La lipoescultura de alta definición (HD) es una técnica avanzada de contorno corporal que utiliza tecnologías como ultrasonido (Vaser) o microaire para eliminar grasa localizada con gran precisión, resaltando la musculatura subyacente. A diferencia de la lipo tradicional, la Lipo HD esculpe el cuerpo para lograr un aspecto atlético, tonificado y definido, especialmente en abdomen, cintura y espalda.
+                        </div>
+</details>
+<details class="group bg-surface-container-low rounded-xl overflow-hidden transition-all duration-300">
+<summary class="list-none p-5 md:p-6 flex justify-between items-center cursor-pointer hover:bg-surface-container-high transition-colors">
+<span class="font-bold">BBL (Levantamiento de Glúteos)</span>
+<span class="material-symbols-outlined text-primary group-open:rotate-180 transition-transform duration-300">expand_more</span>
+</summary>
+<div class="px-5 md:px-6 pb-6 text-on-surface-variant text-sm leading-relaxed border-t border-white/5 pt-4">
+                            El BBL (Brazilian Butt Lift o Levantamiento de Glúteos Brasileño) es un procedimiento de cirugía estética que aumenta, levanta y moldea los glúteos utilizando la propia grasa del paciente. Consiste en extraer grasa mediante liposucción de zonas como abdomen o cintura, para luego inyectarla en los glúteos, logrando una silueta más curvada y natural.
+                        </div>
+</details>
+<details class="group bg-surface-container-low rounded-xl overflow-hidden transition-all duration-300">
+<summary class="list-none p-5 md:p-6 flex justify-between items-center cursor-pointer hover:bg-surface-container-high transition-colors">
+<span class="font-bold">Mommy Makeover</span>
+<span class="material-symbols-outlined text-primary group-open:rotate-180 transition-transform duration-300">expand_more</span>
+</summary>
+<div class="px-5 md:px-6 pb-6 text-on-surface-variant text-sm leading-relaxed border-t border-white/5 pt-4">
+                            Un Mommy Makeover es un conjunto personalizado de procedimientos de cirugía plástica diseñado para restaurar la figura femenina tras el embarazo, parto y lactancia. Combina intervenciones en abdomen, senos y contorno corporal (liposucción) en una sola sesión, abordando la flacidez, grasa localizada y cambios de volumen, generalmente tras decidir no tener más hijos.
+                        </div>
+</details>
+<details class="group bg-surface-container-low rounded-xl overflow-hidden transition-all duration-300">
+<summary class="list-none p-5 md:p-6 flex justify-between items-center cursor-pointer hover:bg-surface-container-high transition-colors">
+<span class="font-bold">Abdominoplastia</span>
+<span class="material-symbols-outlined text-primary group-open:rotate-180 transition-transform duration-300">expand_more</span>
+</summary>
+<div class="px-5 md:px-6 pb-6 text-on-surface-variant text-sm leading-relaxed border-t border-white/5 pt-4">
+                            La abdominoplastia (o lipectomía abdominal) es un procedimiento quirúrgico estético que elimina el exceso de piel y grasa del abdomen inferior y medio, al tiempo que tensa los músculos debilitados de la pared abdominal. Busca aplanar el vientre y contornear la cintura, siendo ideal para mejorar la flacidez tras embarazos o pérdida masiva de peso.
+                        </div>
+</details>
+</div>
+<a class="w-full inline-flex items-center justify-center gap-3 bg-surface-container-highest border border-primary/20 text-primary px-8 py-5 rounded-full font-bold hover:bg-primary hover:text-on-primary transition-all" href="https://wa.me/573217458686">
+                    📲 Mi Cirugía en WhatsApp
+                </a>
+</div>
+<div class="order-1 lg:order-2 relative">
+<div class="absolute -top-10 -right-10 w-48 md:w-64 h-48 md:h-64 bg-primary/10 blur-[100px] rounded-full"></div>
+<img class="rounded-2xl shadow-2xl relative z-10 w-full aspect-[4/5] md:aspect-[4/5] object-cover" data-alt="Professional surgeon in sterile blue scrubs performing a precise procedure under bright medical lamps in a high-tech facility" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBZHRBwOmyZS17Vyi9mrKrwTPs5RfvBFwIID1ttoMq4GFYH-UI72GE_hlFZQ2EJipoqDz02vquOBBd1KvhufHBZ0qdMnMdkI829poI_f00gSxkAHnvaa2akvJp32Lp00lDJZoOqP7UW4tgCnYs5n2rbR9YQOlNfCzASJZVu92w0xxzDWqJzr482jic2MkwWjtWGkVwbWwAT4Ck_tX0Bu5pK_9GHRCDLN-fiUV9p5hdJzUwkgz72s-NEzqZZDxoQuCuT8GYUB50l92o"/>
+</div>
+</div>
+</section>
+<!-- Section 4: Odontología Estética Premium -->
+<section class="py-16 md:py-24 bg-surface-container-lowest px-6">
+<div class="max-w-7xl mx-auto">
+<div class="flex flex-col md:flex-row justify-between items-end mb-12 md:mb-16 gap-8">
+<div class="max-w-2xl w-full text-center md:text-left">
+<h2 class="text-3xl md:text-6xl font-headline font-bold mb-4">El Poder de una <span class="luxury-text-gradient italic">Sonrisa Inolvidable.</span></h2>
+<p class="text-on-surface-variant text-lg leading-relaxed">Transformaciones dentales boutique integradas con una experiencia de viaje sin fisuras.</p>
+</div>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-6 md:gap-8">
+<!-- Featured Package Card -->
+<div class="lg:col-span-2 relative group overflow-hidden rounded-3xl bg-surface-container">
+<div class="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent z-10"></div>
+<img class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="Close up of a perfect brilliant white smile after a high-end cosmetic dentistry procedure, soft warm lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAGNAql-yFOa_3MK6pNMMOGkXJyJHbRH0I0VcMfqManXSSvTufprogx_Um9AHw7sQ3Je0SefwxtP7aaDMjIUPwLkQJiXwAQPnvMEjkYqsyRU7mOr96HxMFjQmpb4JGLeDm1U18x7k_NA6C45iTB7ET73IVVeAeRAdEIey3xrz--9lZakI2X5huu56sTv2ZdjtozYG5l6l60bYHhxqpKwiLF2F8r0eC7pzApRtcOnH8-ZtOyPfvb1zWwyWNz55kuuWrUWxmRk_3yITQ"/>
+<div class="relative z-20 p-6 md:p-12 h-full flex flex-col justify-end min-h-[450px] md:min-h-[500px]">
+<span class="inline-block bg-secondary text-on-secondary text-[10px] md:text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest mb-4 w-fit">Featured Experience</span>
+<h3 class="text-3xl md:text-4xl font-headline font-bold mb-4">Diseño de Sonrisa VIP</h3>
+<div class="flex items-baseline gap-2 md:gap-4 mb-6 md:mb-8">
+<span class="text-4xl md:text-5xl font-bold text-primary">$7,500</span>
+<span class="text-sm md:text-xl text-on-surface-variant">USD (Todo Incluido)</span>
+</div>
+<ul class="grid grid-cols-1 md:grid-cols-2 gap-y-2 md:gap-y-3 mb-8 md:mb-10 text-on-surface/80 text-sm md:text-base">
+<li class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-sm">check_circle</span>
+                                Carillas de Porcelana Premium
+                            </li>
+<li class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-sm">check_circle</span>
+                                Hospedaje en Boutique Hotel
+                            </li>
+<li class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-sm">check_circle</span>
+                                Transporte Privado VIP
+                            </li>
+<li class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-sm">check_circle</span>
+                                Transferencias Internas
+                            </li>
+</ul>
+<a class="bg-primary text-on-primary text-center py-4 rounded-full font-bold hover:shadow-lg transition-all w-full md:w-fit px-8 md:px-12" href="https://wa.me/573217458686">
+                            📲 Reservar por WhatsApp
+                        </a>
+</div>
+</div>
+<!-- Secondary Dental Card -->
+<div class="bg-surface-container-high rounded-3xl p-8 md:p-10 flex flex-col justify-between border-t border-white/5">
+<div>
+<h3 class="text-2xl font-headline font-bold mb-4 text-secondary">Implantología Dental</h3>
+<p class="text-on-surface-variant mb-6 md:mb-8 leading-relaxed text-sm md:text-base">Recupere la funcionalidad y estética total con implantes de titanio grado médico.</p>
+<img class="rounded-xl w-full aspect-video object-cover mb-6 md:mb-8" data-alt="Macro photo of precision dental implants on a dark reflective surface, highlighting technology and quality" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBYY84TkoRSCOMrKMdViLroTjJQILuNjF_tmq5ewFsI2nwQHGB6X-BmORPcO2SpCcjtvDyfIxBU526ktyyqc6auR_VW-fwJQjiBH8B5tnFlj9wAv00FqU_Vik43BtjGpNJzv_wDLrhEQlJ-l6KpQny3wr-GZe8Fgyc6bX854q4U_ERfm3KDL_sZ21AD8__8xPXeAWvf3c4Q3dlWvC5VbUQx5FsoQJ1DmOyth6twDjd7x5qz3szdc07WWkMsuRbUa96rBTqzBLgloRE"/>
+</div>
+<a class="text-primary font-bold flex items-center gap-2 hover:gap-4 transition-all group py-2" href="https://wa.me/573217458686">
+                        Valoración de implantes
+                        <span class="material-symbols-outlined">arrow_forward</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<!-- Section 5: Su Santuario de Recuperación -->
+<section class="py-16 md:py-24 px-6">
+<div class="max-w-7xl mx-auto">
+<div class="mb-12 md:mb-16 text-center md:text-left">
+<h2 class="text-3xl md:text-5xl font-headline font-bold mb-6">Su Santuario de <span class="text-secondary italic">Recuperación</span></h2>
+<p class="text-on-surface-variant max-w-2xl text-lg leading-relaxed mx-auto md:ml-0">Descanse y sane en la <strong class="text-on-surface">Suite Athenea</strong>, un oasis de paz con cuidados personalizados.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-6">
+<div class="md:col-span-8 relative overflow-hidden rounded-2xl group shadow-2xl aspect-video md:aspect-auto md:h-[600px]">
+<div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Luxury master bedroom suite with golden accents and premium linens" src="https://lh3.googleusercontent.com/aida/ADBb0ugQ3a3IBtyblWs6pVwbI16axf875_sDdKuwgPZkNzA6MJ4neBvJVo1ZSaSj5tErDOXCFrlwvvEUWQ7uYhLRmO3ARqPVh-vLiqkwhS0-wocZmwxecSBffgTRTiDKBiO0S7MkkbIS40D6qPwpPM1lZt1lcJK9zFJaL1BvAiEAovkHRW4a0jsKg7_DTX83t71PRtyDYKPtL-wLcq959lrYkGZLVN5Ks1EbY9KkwNtE2iMC7kSO91JZwWU5WthWe2rcM31k56zWCqJk7g"/>
+<div class="absolute bottom-6 left-6 z-20 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+<p class="text-white font-bold text-xl font-headline">Master Suite Athenea</p>
+</div>
+</div>
+<div class="md:col-span-4 flex flex-col gap-4 md:gap-6">
+<div class="h-48 md:h-1/2 relative overflow-hidden rounded-2xl group shadow-xl">
+<div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Spacious living and dining area with modern design and balcony view" src="https://lh3.googleusercontent.com/aida/ADBb0uglYhYdTLASSMRU36MseVJ8sGxBL7vGDjz05jcjI3o82EWz19Uh1dKrdOilQrSY98zneALpeB-Rfcpi22rDWbOqeRjM6M_XJk0JTxG3DDcfdybyA8iaicjMx6c2OZxjc59C6gxbS2NK_OMcz9dVOXJe2gtKrIJQSVdMyHqUIxyO2CZPEHpfJS__Heloy67rNeLMbQWVmQ3rcTMAdQ5QWZPmOYK8zcz3_NmwOdH3LWWC5H3wk70zk_aRK4m7A71VBC61gzWFZPqJRw"/>
+</div>
+<div class="h-48 md:h-1/2 relative overflow-hidden rounded-2xl group shadow-xl">
+<div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Modern spa-inspired bathroom with wood accents and rain shower" src="https://lh3.googleusercontent.com/aida/ADBb0uiDMvsFXka7h-DdLf-lmFUaxwVCUqONTGAfxsZbItA8S6kf8RNPKhCmmJ0owIBs1ySuGgZeRUsZQkeiiIYxGL3X7rCtuQQWLMEr23yz-tg9JgxrbG9ZId4bC8Br4j6CF5KBXCJLWedx8lanbsQz28iHSMN81ITPP3R6cfctRloVg8ajQgaZgveTPEhfqmEkzmv6OBGG25yWzDWD5dILhc3GVsZhnLUfWVZWlNTbHR6mxN8wpnLUR_hGcXGhR4mpoNvhMsn2hgTsqQ"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Section 6: Resultados e Historias de Éxito -->
+<section class="py-16 md:py-24 bg-surface-container-low px-6 overflow-hidden">
+<div class="max-w-7xl mx-auto">
+<h2 class="text-3xl md:text-5xl font-headline font-bold mb-12 md:mb-16 text-center">Resultados Reales. <span class="text-primary italic">Pacientes Felices.</span></h2>
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
+<!-- Placeholder Before & After Items -->
+<div class="bg-surface-container rounded-2xl overflow-hidden shadow-xl">
+<img class="w-full aspect-[3/4] object-cover" data-alt="Before and after comparison of a high-definition liposuction procedure showing athletic abdominal definition" src="https://lh3.googleusercontent.com/aida/ADBb0uj5S4jV3jG2OTuMmdhSIHTCF7paG_SwciX1XGTRuqqNmFE81TbnOF6R_oGe0yOKi3ryuPUkOw2Hn4TSl19-RhW_MLx7fCJLMLjp7a5STPIwtGQ0-MUnZXQKKiXiHlJ8x5v3kw50_d84dCmueM9FLg7kKg5D0gTysmYrv4k8-w0Cejt4Dzp8fvqPxBaAt3SbUgnagdk72Hhgtq4gZabwcnCkoDbysHNW4gtylU2z-h0ygWhX2mmhbjRrdaJLNpkdfEh28dE4TSW9gg"/>
+<div class="p-3 md:p-4 text-center">
+<p class="font-bold text-[10px] md:text-sm">Lipoescultura HD</p>
+</div>
+</div>
+<div class="bg-surface-container rounded-2xl overflow-hidden shadow-xl md:translate-y-8">
+<img class="w-full aspect-[3/4] object-cover" data-alt="Before and after transformation of a ceramic smile design showing natural looking porcelain veneers" src="https://lh3.googleusercontent.com/aida/ADBb0uhMrDxPiE09xq7pZsaXiQQwNPiIq_EcqK1FcNIzU1NYM8ADh3B1CZe54NyqlrdMrYMwRPxIqB1pfQaQ5frQkhRRNJBIz4rIHi_OVEmVjP-ahDDkSLc_SBHXfaW3Aw88ZdJVb757GTOL67DLN0FLQld84q6OYgaItxy-bC0TLJ7wf195pyZ1fRR9zU4yXk1SW4dhy9Gs3kFjjUKlz4Fiie0pp_ujsCVI4vidxQVKMoOlGpGkUPC8WTON-0qXlrUvouy17ygijWBApg"/>
+<div class="p-3 md:p-4 text-center">
+<p class="font-bold text-[10px] md:text-sm">Diseño de Sonrisa</p>
+</div>
+</div>
+<div class="bg-surface-container rounded-2xl overflow-hidden shadow-xl">
+<img class="w-full aspect-[3/4] object-cover" data-alt="Before and after comparison of body contouring results showing significant transformation in the back and hip area, consistent with a Mommy Makeover procedure." src="https://lh3.googleusercontent.com/aida/ADBb0ugxE8fI4xmZXNIXpMP80nryfRsRIzERCcuZtxDzPsr4pvA1jUCceYzeCSEXBfbQmEpGUxHMarFjQcASzelmVaNKjTmZKk8xuQ3dJvhfWcLlpmq167Ew1f69VcrvJLH66bFfcqxI1kzPLNFECLwT2beN0j_fXEJZ6bpEgsKlvsv_TWZU1arYiBKlYgfW4RCQvUt0RqP-jiQPniSHG9oaq_tEY6RaomDVOoNYEnFRldXzl2QUwjsJCrFIrc_YFOui_Fodhm9aRAlLTg"/>
+<div class="p-3 md:p-4 text-center">
+<p class="font-bold text-[10px] md:text-sm">Mommy Makeover</p>
+</div>
+</div>
+<div class="bg-surface-container rounded-2xl overflow-hidden shadow-xl md:translate-y-8">
+<img class="w-full aspect-[3/4] object-cover" data-alt="Before and after side profile comparison of a Brazilian Butt Lift showing enhanced curves and projection with medical grade watermarks." src="https://lh3.googleusercontent.com/aida/ADBb0ugMedTswv4jt7iU-7Ni47Fu3b9WCg45X4LKWSvsR1cBA75UNmcCky48uQDX-pabnBM4Nv71C5cFvDyAIXWijCLTJnFGgby01h8zVhpaOU4PA0f3-2U2H4xRtBNcO11xcHaZCnnxOriyJ1PDFcQrG_AgsZNtlBpSdbK5oxJTGU0hHA1qiYySofJgu5mdLVjOT5a_JgJ73BeLKSOI7ahf-pQdZUrsYFI6eRFDN8mSXP7HZqMT8LEY8hbkRmYcKJFjyMBtJmolgUhN"/>
+<div class="p-3 md:p-4 text-center">
+<p class="font-bold text-[10px] md:text-sm">BBL Experience</p>
+</div>
+</div>
+</div>
+<div class="mt-16 md:mt-24 p-8 md:p-12 bg-surface-container-high rounded-3xl flex flex-col items-center text-center relative overflow-hidden">
+<div class="absolute inset-0 opacity-10 hidden md:block">
+<span class="material-symbols-outlined text-[300px] absolute -right-20 -bottom-20 rotate-12">format_quote</span>
+</div>
+<div class="relative z-10 max-w-2xl">
+<p class="text-xl md:text-2xl font-serif italic mb-8">"Viajar desde Miami a Cali para mi cirugía fue la mejor decisión. Estética Colombia Tours manejó cada detalle. Me sentí como una celebridad y los resultados son increíbles."</p>
+<div class="flex items-center justify-center gap-4">
+<div class="w-12 h-12 rounded-full bg-primary/20 flex items-center justify-center font-bold text-primary">SC</div>
+<div class="text-left">
+<p class="font-bold">Sarah Campbell</p>
+<p class="text-[10px] text-on-surface-variant uppercase tracking-widest">Paciente de BBL</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Section 7: Footer & Closing -->
+<section class="py-16 md:py-24 px-6 text-center bg-background border-t border-white/5">
+<div class="max-w-4xl mx-auto">
+<h2 class="text-4xl md:text-7xl font-headline font-bold mb-8 italic">¿Listo para el primer paso?</h2>
+<p class="text-lg md:text-xl text-on-surface-variant mb-12 leading-relaxed">Cali, Colombia es la Capital Mundial de la Belleza. Permítanos ser su guía en este viaje de transformación personal.</p>
+<a class="w-full sm:w-auto inline-flex items-center justify-center gap-4 bg-primary text-on-primary px-8 md:px-12 py-5 md:py-6 rounded-full font-bold text-xl md:text-2xl hover:scale-105 transition-all shadow-2xl shadow-primary/30 group" href="https://wa.me/573217458686">
+<span class="material-symbols-outlined group-hover:rotate-12 transition-transform">chat</span>
+                ¡Agendar Valoración Ahora!
+            </a>
+<div class="mt-16 md:mt-20 flex justify-center gap-6 md:gap-8 opacity-60">
+<span class="material-symbols-outlined text-3xl md:text-4xl">travel_explore</span>
+<span class="material-symbols-outlined text-3xl md:text-4xl">verified_user</span>
+<span class="material-symbols-outlined text-3xl md:text-4xl">hotel_class</span>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-neutral-950 text-neutral-500 py-12 px-6">
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 md:gap-12 max-w-7xl mx-auto">
+<div class="md:col-span-1">
+<div class="text-xl md:text-2xl font-serif text-secondary mb-6">Estética Colombia Tours</div>
+<p class="text-sm leading-relaxed">Private Concierge Services Cali, Colombia. Experiencias médicas de lujo diseñadas para el mercado internacional.</p>
+</div>
+<div>
+<h4 class="text-on-surface font-bold mb-6">Explorar</h4>
+<ul class="space-y-4 text-sm">
+<li><a class="hover:text-primary transition-colors" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">Privacy Policy</a></li>
+<li><a class="hover:text-primary transition-colors" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">Medical Disclaimer</a></li>
+<li><a class="hover:text-primary transition-colors" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">Terms of Service</a></li>
+</ul>
+</div>
+<div>
+<h4 class="text-on-surface font-bold mb-6">Destino</h4>
+<ul class="space-y-4 text-sm">
+<li><a class="hover:text-primary transition-colors" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">Cali Concierge</a></li>
+<li><a class="hover:text-primary transition-colors" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">Contact Us</a></li>
+<li class="flex items-center gap-2">
+<span class="material-symbols-outlined text-xs">location_on</span>
+                    Cali, Valle del Cauca, Colombia
+                </li>
+</ul>
+</div>
+<div>
+<h4 class="text-on-surface font-bold mb-6">Síguenos</h4>
+<div class="flex gap-4">
+<a class="w-10 h-10 rounded-full border border-neutral-800 flex items-center justify-center hover:bg-primary hover:text-on-primary transition-all" href="https://www.instagram.com/esteticacolombiatours?igsh=dDZndGRuNW1sb2Vq&amp;utm_source=qr">IG</a>
+<a class="w-10 h-10 rounded-full border border-neutral-800 flex items-center justify-center hover:bg-primary hover:text-on-primary transition-all" href="https://www.facebook.com/share/1GD2xUYurB/?mibextid=wwXIfr">FB</a>
+</div>
+</div>
+</div>
+<div class="max-w-7xl mx-auto mt-12 pt-12 border-t border-neutral-900 text-[10px] md:text-xs text-center">
+        © 2024 Estética Colombia Tours. Private Concierge Services Cali, Colombia.
+    </div>
+</footer>
+</body></html>
